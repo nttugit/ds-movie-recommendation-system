@@ -1,2 +1,25 @@
 /ml-32m
 /ml-32m.zip
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Text editor checkpoint files
+*-checkpoint.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Data and logs
+*.log
+*.sqlite3
+*.csv
+*.data
